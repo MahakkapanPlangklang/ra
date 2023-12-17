@@ -5,7 +5,7 @@ int main() {
     double num1, num2, result;
     char operation;
 
-    std::cout << "Enter two real numbers and an arithmetic operator (+, -, *, /, > to exit): ";
+    std::cout << "Enter Your Input: ";
     std::cin >> num1 >> num2 >> operation;
 
     switch (operation) {
