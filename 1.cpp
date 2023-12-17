@@ -3,7 +3,7 @@
 int main() {
 	
     char ch;
-    std::cout << "Enter a character (a <= ch <= Z): ";
+    std::cout << "Enter a character: ";
     std::cin >> ch;
 
     switch(ch) {
